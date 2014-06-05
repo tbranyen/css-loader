@@ -1,9 +1,9 @@
 {
   "name": "css-lodaer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "loader.js",
   "dependencies": {
-    "scopedcss": "scopedcss#master"
+    "scopedcss": "scopedcss#0.1.1"
   },
   "devDependencies": {
     "qunit": "~1.12.0",
